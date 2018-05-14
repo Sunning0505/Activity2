@@ -1,16 +1,15 @@
-# 2.3  Activity Intent
+# Activity
+## 第二次安卓实验之Intent
 
-显式 Intent 启动 SecondActivity，隐式 Intent 启动 ThirdActivity。
+显式/隐式 Intent 启动Activity
 
-隐式 Intent 打开链接等。
+隐式 Intent 打开链接
 
-FourthActivity 响应打开链接操作。
+通过 Intent传递数据。
 
-通过 Intent，MainActivity 向 SecondActivity 传递数据。
+通过 Intent反向传递数据。 
 
-通过 Intent，SecondActivity 向 MainActivity 反向传递数据。 
-
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fpg3d7n43bj30a00kqwfe.jpg)
+![](https://i.loli.net/2018/05/14/5af8deb4e5366.jpg)
 
 
 
